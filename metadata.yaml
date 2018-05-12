@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36376
     wikipedia: http://www.gutenberg.org/browse/authors/w#a37000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34369#Penny-Nichols-and-the-Mystery-of-the-Lost-Key
 gutenberg_issued: '2010-11-19'
 gutenberg_type: Text
 identifiers:
