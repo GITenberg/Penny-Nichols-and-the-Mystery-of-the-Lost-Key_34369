@@ -1,0 +1,31 @@
+_repo: Penny-Nichols-and-the-Mystery-of-the-Lost-Key_34369
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, Joan
+    birthdate: 1905
+    deathdate: 2002
+    gutenberg_agent_id: '36376'
+    url: http://www.gutenberg.org/2009/agents/36376
+    wikipedia: http://www.gutenberg.org/browse/authors/w#a37000
+description: ''
+gutenberg_issued: '2010-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Haunted houses -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Jewel thieves -- Juvenile fiction'
+title: Penny Nichols and the Mystery of the Lost Key
+url: http://www.gutenberg.org/ebooks/34369
